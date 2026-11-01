@@ -4,13 +4,11 @@
 
 I like problems where the numbers and the strategy have to agree. Every project below opens with the question it answers, so you can judge the thinking in a minute and go deeper only where it interests you.
 
-| | |
-|---|---|
-| **Experience** | Founder's Office, FlexiLoans (2026) · Growth, Onramp Money (2023–24) |
-| **Wins** | Winner, The Founder's Dilemma 2026 · 3rd place, Shark Tank Campus Edition |
-| **Research** | Peer-reviewed paper in a Springer book series (2024) · White paper on financing a $30 trillion India (in progress) |
-| **Education** | PGDM, Great Lakes Institute of Management (2025–27) · BTech Computer Science, Bennett University |
-| **Campus** | Core member, Consulting Committee, Great Lakes |
+**Experience** &nbsp; Founder's Office, FlexiLoans (2026) · Growth, Onramp Money (2023–24)  
+**Wins** &nbsp; Winner, The Founder's Dilemma 2026 · 3rd place, Shark Tank Campus Edition  
+**Research** &nbsp; Peer-reviewed paper in a Springer book series (2024) · White paper on financing a $30 trillion India (in progress)  
+**Education** &nbsp; PGDM, Great Lakes Institute of Management (2025–27) · BTech Computer Science, Bennett University  
+**Campus** &nbsp; Core member, Consulting Committee, Great Lakes  
 
 **Start here:** [Agentic AI Process Automation](https://github.com/PRANSH18/agentic-ai-process-automation) · [Asian Paints vs Birla Opus](https://github.com/PRANSH18/indian-paints-industry-analysis) · [The Founder's Dilemma (winning deck)](https://github.com/PRANSH18/case-competitions#the-founders-dilemma-2026-winner)
 
