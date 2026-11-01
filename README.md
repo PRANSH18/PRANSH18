@@ -21,7 +21,7 @@ I work where strategy, finance and technology meet. This page collects my work f
 |---|---|
 | [Dell AI-enabled ERP](https://github.com/PRANSH18/dell-ai-erp-transformation) | Where can AI change demand and production planning in a build-to-order business, and where should humans stay in charge? |
 | [Internship report agent](https://github.com/PRANSH18/internship-report-agent) | Can a multi-agent system take the manual checking out of internship reporting without taking judgement away from faculty? |
-| [Apna Khaana](https://github.com/PRANSH18/apna-khaana) | Can personalisation make cloud-kitchen economics work, and is it fundable? A working app and a seed-round pitch |
+| [Apna Khaana](https://github.com/PRANSH18/apna-khaana) | Can personalisation make cloud-kitchen economics work, and is it fundable? A [working app](https://apna-khaana.netlify.app/) and a seed-round pitch |
 | [Chillar](https://github.com/PRANSH18/chillar-campaign) | How do you get students to save together? Launch campaign, business case and a [live landing page](https://pransh18.github.io/chillar-campaign/) |
 
 ### Case competitions
@@ -71,4 +71,4 @@ All certificates and the NVIDIA workshop notebooks are in [certifications](https
 
 ---
 
-pranshgupta18@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pranshgupta18/) · pranshgupta18@gmail.com
