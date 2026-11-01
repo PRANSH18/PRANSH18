@@ -2,17 +2,31 @@
 
 PGDM in Finance & Strategy at Great Lakes Institute of Management, Chennai (2025–27). BTech in Computer Science from Bennett University. Published researcher.
 
-I work at the point where business problems meet data. This page collects my work from both degrees, newest first.
+I work where strategy, finance and technology meet. This page collects my work from both degrees, newest first, and every project page leads with the question it answers.
 
 ---
 
 ### MBA · Strategy & Finance
 
-*Coming soon: financial statement analysis, valuation and industry strategy work from GLIM.*
+| Project | The question it answers |
+|---|---|
+| [Indian decorative paints](https://github.com/PRANSH18/indian-paints-industry-analysis) | Have Birla Opus and JSW Dulux reset the economics of Indian paints, and what does it mean for Asian Paints? Industry analysis, reverse DCF and competitive strategy |
+| [Varun Beverages FSA](https://github.com/PRANSH18/vbl-financial-statement-analysis) | How good are VBL's earnings and governance? Ratio, DuPont and RNOA model with a forecast to CY2030 |
+| [HDB Financial IPO](https://github.com/PRANSH18/hdb-financial-ipo-analysis) | Was the ₹12,500 crore IPO priced right? Prospectus analysis, peer valuation and a pricing critique |
+| [MBA casework](https://github.com/PRANSH18/mba-casework) | FX hedging, option strategy, credit decisions, liquidity stress testing, a digital lending business case and strategy cases |
 
-### MBA · Product & AI
+### MBA · AI, Product & Transformation
 
-*Coming soon: AI-enabled ERP transformation, SAP process work and product campaigns from GLIM.*
+| Project | The question it answers |
+|---|---|
+| [Dell AI-enabled ERP](https://github.com/PRANSH18/dell-ai-erp-transformation) | Where can AI change demand and production planning in a build-to-order business, and where should humans stay in charge? |
+| [Internship report agent](https://github.com/PRANSH18/internship-report-agent) | Can a multi-agent system take the manual checking out of internship reporting without taking judgement away from faculty? |
+| [Apna Khaana](https://github.com/PRANSH18/apna-khaana) | Can personalisation make cloud-kitchen economics work, and is it fundable? A working app and a seed-round pitch |
+| [Chillar](https://github.com/PRANSH18/chillar-campaign) | How do you get students to save together? Launch campaign, business case and a [live landing page](https://pransh18.github.io/chillar-campaign/) |
+
+### Case competitions
+
+WWT Unravel 2025, Trilytics '25, The Fifth Move and others. Work and certificates are in [case-competitions](https://github.com/PRANSH18/case-competitions).
 
 ---
 
