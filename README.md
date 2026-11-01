@@ -5,7 +5,7 @@
 I work on problems where strategy has to stand up to the numbers. Each project below starts with the question it answers, so you can see the thinking in a minute and open whatever interests you.
 
 **Experience** &nbsp; Founder's Office, FlexiLoans (2026) · Growth, Onramp Money (2023–24)  
-**Wins** &nbsp; Winner, The Founder's Dilemma 2026 · 3rd place, Shark Tank Campus Edition (PetScape)  
+**Wins** &nbsp; Winner, The Founder's Dilemma 2026 · 3rd place, Shark Tank Campus Edition (PetScape PlayRoom)  
 **Research** &nbsp; Peer-reviewed paper in a Springer book series (2024) · Working on a white paper, *Financing a $30 Trillion India*  
 **Education** &nbsp; PGDM, Great Lakes Institute of Management (2025–27) · BTech Computer Science, Bennett University  
 **Campus** &nbsp; Core member, Consulting Committee, Great Lakes  
@@ -37,7 +37,7 @@ I work on problems where strategy has to stand up to the numbers. Each project b
 | Result | Competition | What we did |
 |---|---|---|
 | **Winner** | [The Founder's Dilemma 2026](https://github.com/PRANSH18/case-competitions#the-founders-dilemma-2026-winner) | Led a three-member team. A go-to-market plan for a premium stationery brand that cut its cash cycle from about 105 days to about 30 |
-| **3rd place** | [Shark Tank Campus Edition](https://github.com/PRANSH18/case-competitions#shark-tank-campus-edition-petscape-3rd-place) | PetScape, a VR headset and content platform for indoor pets. Pitched a ₹1.6 crore seed round |
+| **3rd place** | [Shark Tank Campus Edition](https://github.com/PRANSH18/case-competitions#shark-tank-campus-edition-petscape-to-petscape-playroom-3rd-place) | Placed with PetScape, a VR headset for indoor pets, then used the investor feedback to rebuild it as PetScape PlayRoom, a projector-based smart playroom run from the owner's phone |
 | Participant | [WWT Unravel 2025](https://github.com/PRANSH18/case-competitions#wwt-unravel-2025-recommendation-system-for-wings-r-us), Trilytics '25, The Fifth Move and more | Recommendation systems, product teardowns and consulting cases |
 
 ---
