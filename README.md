@@ -1,6 +1,6 @@
 ## Pransh Gupta
 
-**Finance & Strategy MBA at Great Lakes Chennai, with a computer science base. Open to strategy consulting and BFSI roles.**
+**Finance & Strategy MBA at Great Lakes Chennai, with a computer science engineering background. Open to strategy consulting and BFSI roles.**
 
 I like problems where the numbers and the strategy have to agree. Every project below opens with the question it answers, so you can judge the thinking in a minute and go deeper only where it interests you.
 
